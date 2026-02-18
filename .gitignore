@@ -5,3 +5,7 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Deployed website folder.
+docs/
+_site/
