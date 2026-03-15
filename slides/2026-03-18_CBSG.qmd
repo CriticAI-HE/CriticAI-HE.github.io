@@ -1,0 +1,16 @@
+---
+title: "CBSG"
+format: revealjs
+---
+
+# What I've done so far...
+
+##  {#logo .center data-menu-title="A logo!"}
+
+First things, first... a logo!
+
+![](/media/criticAI_logo.svg){width="600"}
+
+## 
+
+A video

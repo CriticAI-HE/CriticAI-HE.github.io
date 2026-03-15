@@ -1,5 +1,6 @@
 ---
 title: "CriticAI-HE.github.io"
+title-block-banner: true
 ---
 
 This is a Quarto website.
