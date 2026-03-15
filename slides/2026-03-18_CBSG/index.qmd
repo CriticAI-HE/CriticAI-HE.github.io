@@ -1,0 +1,118 @@
+---
+title: "CBSG"
+subtitle: "18th March 2026"
+author: 
+  - "Carlos Cámara-Menoyo"
+institute: Centre for Interdisciplinary Methodologies (University of Warwick)
+format: 
+    revealjs:
+      theme: [default, ../../styles/slides.scss, ../../styles/fonts.scss]
+---
+
+::: callout-important
+## AI warning
+
+No AI whatsoever was used in the creation of this presentation or their supporting materials.
+:::
+
+# What I said in my application
+
+> I will be building CriticAI, a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with academia’s ethos.
+
+Aims:
+1. Influence decision-making processes in HE to ensure that AI usage is aligned with academia’s ethos through collective action
+2. Meet and connect with like-minded people
+3. Share knowledge, experiences and resources about AI in HE
+4. Do something together (collective action)
+
+Screenshot from application
+
+# What I've done so far...
+
+##  {#logo .center data-menu-title="A logo!"}
+
+First things, first... a logo!
+
+![](/media/criticAI_logo.png){width="600"}
+
+##  {#video .center data-menu-title="A video"}
+
+![](/media/AI_video_phone.GIF){fig-align="center"}
+
+## A [matrix] space
+
+![](media/matrix-space.png){fig-align="center"}
+
+
+
+## A [matrix] space 2 {.hidden}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](media/matrix-space.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+Why [matrix]?
+
+- Federated, open-source, privacy-preserving, secure, decentralised, interoperable, and free.
+- Can be bridged to other platforms
+- Looks nice and works well 
+
+:::
+
+::::
+
+
+
+## GitHub Organisation
+
+![[https://github.com/CriticAI-HE](https://github.com/CriticAI-HE?view_as=public)](media/github-organisation.png){fig-align="center"}
+
+
+## First planned activity!
+
+SSI CW2026 workshop
+
+
+
+## But...
+
+- I have not told anyone about the community yet.
+- Website is empty
+  - No info about community's aims, activities, or how to join.
+- No messages in the Matrix space or the GitHub organisation.
+- Zero members!
+
+
+::: callout-important
+## Analysis paralysis warning
+
+I'm stuck! Support is welcome!
+:::
+
+# Analysis paralysis!
+
+## About the community
+
+- What kind of community do I want to build?
+  - Support group? (therapy) 
+  - Union (collective action and bargaining power)
+  - Social (networking and sharing)
+  - Learning (knowledge sharing and skill development)
+  - Something else?
+- Where to start?
+  - Unconf may be too big and intimidating for a first activity
+  - Reading group?
+  - Survey?
+- Who is the community for?
+  - Academics? RSEs? Just from the UK? 
+- What's the community's stance on AI?
+
+## 
+
+
+## Tools
+
+
