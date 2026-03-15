@@ -2,12 +2,33 @@ project:
   type: website
 
 website:
-  title: "CriticAI-HE.github.io"
+  title: "CriticAI"
+  #logo: media/criticAI_logo.svg
+  description: "A community of practice to critically enquiry about AI’s adoption in Higher Education"
+  site-url: https://criticai-he.github.io
+  repo-url: https://github.com/CriticAI-HE/CriticAI-HE.github.io
+  repo-actions: [edit, issue]
+  favicon: "media/favicon.ico"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+      - icon: chat-left-text
+        href: https://github.com/orgs/CriticAI-HE/discussions
+        text: Community discussions (GitHub)
+      - icon: chat
+        href: https://matrix.to/#/!HTlQauruCuGUrpjgNw:matrix.org?via=matrix.org
+        text: Element/Matrix space
+      - icon: github
+        menu:
+          - text: Organisation
+            url:  https://github.com/CriticAI-HE
+          - text: Report a Bug
+            url:  https://github.com/CriticAI-HE/CriticAI-HE.github.io/issues
+      - icon: rss
+        href: index.xml
 
 format:
   html:
