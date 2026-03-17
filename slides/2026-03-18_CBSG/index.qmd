@@ -9,6 +9,8 @@ format:
       theme: [default, ../../styles/slides.scss, ../../styles/fonts.scss]
 ---
 
+##  {.center}
+
 ::: callout-important
 ## AI warning
 
@@ -20,12 +22,42 @@ No AI whatsoever was used in the creation of this presentation or their supporti
 > I will be building CriticAI, a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with academia’s ethos.
 
 Aims:
-1. Influence decision-making processes in HE to ensure that AI usage is aligned with academia’s ethos through collective action
-2. Meet and connect with like-minded people
-3. Share knowledge, experiences and resources about AI in HE
-4. Do something together (collective action)
+
+1.  Influence decision-making processes in HE to ensure that AI usage is aligned with academia’s ethos through collective action
+2.  Meet and connect with like-minded people
+3.  Share knowledge, experiences and resources about AI in HE
+4.  Do something together (collective action)
+5.  Have fun!
 
 Screenshot from application
+
+-   Are you concerned with the way AI is being implemented in HE?
+
+-   Do you feel that your voice has not been heardt?
+
+-   
+
+-   Sociological implications of AI, coversation is dominated by STEM.
+
+-   
+
+-   Are coun cncerned by X? Do you think you have something to contribute? Do you feel aslienated/isolated?
+
+    -   
+
+    -   How it does affect how we do research? political, social?
+
+    -   
+
+    -   Wouldnot feel comfortable at sharing your voice in other places?
+
+    -   
+
+    -   People can share those concerns with a community, have a shared voice that empowers us, so we can be included in
+
+    -   
+
+-   
 
 # What I've done so far...
 
@@ -39,52 +71,41 @@ First things, first... a logo!
 
 ![](/media/AI_video_phone.GIF){fig-align="center"}
 
-## A [matrix] space
+## A \[matrix\] space
 
 ![](media/matrix-space.png){fig-align="center"}
 
+## A \[matrix\] space 2 {.hidden}
 
-
-## A [matrix] space 2 {.hidden}
-
-:::: {.columns}
-
+::::: columns
 ::: {.column width="60%"}
 ![](media/matrix-space.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
-Why [matrix]?
+Why \[matrix\]?
 
-- Federated, open-source, privacy-preserving, secure, decentralised, interoperable, and free.
-- Can be bridged to other platforms
-- Looks nice and works well 
-
+-   Federated, open-source, privacy-preserving, secure, decentralised, interoperable, and free.
+-   Can be bridged to other platforms
+-   Looks nice and works well
 :::
-
-::::
-
-
+:::::
 
 ## GitHub Organisation
 
 ![[https://github.com/CriticAI-HE](https://github.com/CriticAI-HE?view_as=public)](media/github-organisation.png){fig-align="center"}
 
-
 ## First planned activity!
 
 SSI CW2026 workshop
 
+## The infrastructure is (almost) ready, but...
 
-
-## But...
-
-- I have not told anyone about the community yet.
-- Website is empty
-  - No info about community's aims, activities, or how to join.
-- No messages in the Matrix space or the GitHub organisation.
-- Zero members!
-
+-   I have not told anyone about the community yet.
+-   Website is empty
+    -   No info about community's aims, activities, or how to join.
+-   No messages in the Matrix space or the GitHub organisation.
+-   Zero members!
 
 ::: callout-important
 ## Analysis paralysis warning
@@ -94,25 +115,40 @@ I'm stuck! Support is welcome!
 
 # Analysis paralysis!
 
+## About the tools
+
+-   Important to be coherent (e.g. rejecting AI-fueled solutions. Bu)
+
+    -   But... GitHub... (because of discussions and GitHub actions)
+
+-   
+
+-   Personal:
+
+    -   I struggle with IM. This is an issue for others, too (e.g. people with ADHD)
+
+    -   I tend to favour open, federated, and community-led platforms/software over corporated
+
 ## About the community
 
-- What kind of community do I want to build?
-  - Support group? (therapy) 
-  - Union (collective action and bargaining power)
-  - Social (networking and sharing)
-  - Learning (knowledge sharing and skill development)
-  - Something else?
-- Where to start?
-  - Unconf may be too big and intimidating for a first activity
-  - Reading group?
-  - Survey?
-- Who is the community for?
-  - Academics? RSEs? Just from the UK? 
-- What's the community's stance on AI?
+-   What kind of community do I want to build?
+    -   Support group? (therapy)
+    -   Union (collective action and bargaining power)
+    -   Social (networking and sharing)
+    -   Learning (knowledge sharing and skill development)
+    -   Something else?
+-   Where to start?
+    -   Unconf may be too big and intimidating for a first activity
+    -   Reading group?
+    -   Survey?
+-   Who is the community for?
+    -   Academics? RSEs? Just from the UK?
+-   What's the community's stance on AI?
+
+## Me &/vs Community
+
+-   
 
 ## 
 
-
 ## Tools
-
-
