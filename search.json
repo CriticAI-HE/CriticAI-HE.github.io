@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 15, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 12, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#section",
+    "href": "slides/2026-03-18_CBSG/index.html#section",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "",
+    "text": "AI disclosure\n\n\nNo AI whatsoever was used in the creation of this presentation or their supporting materials."
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#logo",
+    "href": "slides/2026-03-18_CBSG/index.html#logo",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "",
+    "text": "First things, first… a logo!"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#video",
+    "href": "slides/2026-03-18_CBSG/index.html#video",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "",
+    "text": "Procrastinating A GIF! A visual metaphor of the problem AI aims to address."
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#a-matrix-space",
+    "href": "slides/2026-03-18_CBSG/index.html#a-matrix-space",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "A [matrix] space",
+    "text": "A [matrix] space"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#github-organisation",
+    "href": "slides/2026-03-18_CBSG/index.html#github-organisation",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "GitHub Organisation",
+    "text": "GitHub Organisation\n\nhttps://github.com/CriticAI-HE"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#first-planned-activity",
+    "href": "slides/2026-03-18_CBSG/index.html#first-planned-activity",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "First planned activity!",
+    "text": "First planned activity!\nSSI CW2026 workshop: Analysing AI guidelines to critically enquiry AI adoption in software development.\nParticipants will bring policies. We will analyise and discuss them: what they say and what is missing from them.\n\n\n\n\n\n\nInterested?\n\n\n\nAttend to the workshop and bring your own policies\nLet me know if you would like to help with organisation"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#the-infrastructure-is-almost-ready-but",
+    "href": "slides/2026-03-18_CBSG/index.html#the-infrastructure-is-almost-ready-but",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "The infrastructure is (almost) ready, but…",
+    "text": "The infrastructure is (almost) ready, but…\n\nI have not told anyone about the community yet.\nWebsite is empty\n\nNo info about community’s aims, activities, or how to join.\n\nNo messages in the Matrix space or the GitHub organisation.\nZero members! (Zero activity)"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#this-is-what-i-keep-asking-myself",
+    "href": "slides/2026-03-18_CBSG/index.html#this-is-what-i-keep-asking-myself",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "This is what I keep asking myself…",
+    "text": "This is what I keep asking myself…\n\n\n\nWhat kind of community do I want to build?\n\nSupport group? (therapy)\nUnion (collective action and bargaining power)\nSocial (networking and sharing)\nLearning (knowledge sharing and skill development)\nSomething else?\n\n\n\n\nWhere to start?\n\nUnconf may be too big and intimidating for a first activity\nReading group?\nSurvey?\n…?\n\nWho is the community for?\n\nAcademics? RSEs? Just from the UK?\n\nWhat’s the community’s stance on AI?"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#me-vs.-community",
+    "href": "slides/2026-03-18_CBSG/index.html#me-vs.-community",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "Me &/vs. Community",
+    "text": "Me &/vs. Community\n\nLeading vs facilitating?\n\nI have a very oppinionated stance on AI (and more broadly, on the tools I do not like using), but not sure whether this needs to be the community’s stance. How can this\n\nTools:\n\nImportant to be coherent (e.g. rejecting AI-fueled solutions), but also, is this the battle I want to pick? (AI is overwhelming enough!)\nI particularly struggle with IM"
+  },
+  {
+    "objectID": "slides/2026-03-18_CBSG/index.html#hello-world",
+    "href": "slides/2026-03-18_CBSG/index.html#hello-world",
+    "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
+    "section": "Hello world!",
+    "text": "Hello world!\n\nHi, my name is Carlos and I am building CriticAI. Nothing big at the moment, but if any of the following questions resonate with you, please do reach out!\n\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?\n\nWe will be meeting on DATE at TIME at Matrix|Jitsi|Teams to have an initial chat on what is concerning you"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CriticAI-HE.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
