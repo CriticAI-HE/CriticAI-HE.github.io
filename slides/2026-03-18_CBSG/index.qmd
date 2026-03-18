@@ -1,5 +1,5 @@
 ---
-title: "CriticAI: Hellow world!"
+title: "CriticAI: what I've done, what I haven't done, and what keeps me from doing it"
 subtitle: "Community Building Study Group | 18th March 2026"
 author: 
   - "Carlos Cámara-Menoyo"
@@ -8,9 +8,9 @@ format:
     revealjs:
       theme: [default, ../../styles/slides.scss, ../../styles/fonts.scss]
 ---
-
+## {.center data-menu-title="Disclaimer"} 
 ::: callout-important
-## AI warning
+## AI disclosure
 
 No AI whatsoever was used in the creation of this presentation or their supporting materials.
 :::
@@ -102,9 +102,9 @@ I'm stuck! Support is welcome!
 ## Me &/vs. Community
 
 -   Leading vs facilitating?
-    -   I have a very oppinionated stance on AI (and more broadly, on the tools I do not like using), but not sure whether this needs to be the community's stance. 
+    -  I have a very oppinionated stance on AI (and more broadly, on the tools I do not like using), but not sure whether this needs to be the community's stance. How can this 
 -   Tools:
-    -   Important to be coherent (e.g. rejecting AI-fueled solutions), but also, is this the battle I want to pick? (AI is overwhelming enough!)
+    -  Important to be coherent (e.g. rejecting AI-fueled solutions), but also, is this the battle I want to pick? (AI is overwhelming enough!)
     - I particularly struggle with IM
 
 # Commit Often, Perfect Later {.center}
