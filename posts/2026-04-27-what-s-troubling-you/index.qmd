@@ -1,0 +1,11 @@
+---
+title: "First online meeting: What's troubling you?"
+subtitle: "Save the date! 15th May "
+author: "Carlos Cámara-Menoyo"
+date: "2026-04-27"
+categories: [news]
+---
+
+Introducing yourselves
+
+If you're interested in joining, please add a comment below, or sign up in the matrix channel.
