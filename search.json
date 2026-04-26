@@ -4,7 +4,84 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 15, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 12, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "First online meeting: What’s troubling you?\n\n\nSave the date! 15th May \n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 27, 2026\n\n\nCarlos Cámara-Menoyo\n\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\n\n\n\n\nNews\n\nEvents\n\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26), during a workshop aimed at Analysing AI guidelines in HE that will serve as a warm-up for what is it to come. If you are interested in knowing (and discussing -and even challenging!) how universities are approaching the adoption of AI, you cannot miss it! Also, I would love to know about you, so please come by and say hello!\n\n\n\n\n\nApr 12, 2026\n\n\nCarlos Cámara\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#section",
+    "href": "slides/2026-04_CW26/index.html#section",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "",
+    "text": "Analysing AI guidelines to critically enquiry AI adoption in software development\n\n\nWhile we wait…\n\n\n\n\n\n\nAction\n\n\n\nTake a sit in the table with the topic that is more relevant to you (or closer):\n\nAI for coding in Research\nAI for teaching coding\nAI for learning about coding\n\nIntroduce yourselves to the other members of the table\n\n\n\n\n\n\n\n\n\n\nAI disclosure\n\n\nNo AI whatsoever was used in the creation of this presentation or their supporting materials.\n\n\n\n\n\n\n\n\n\n\n\n\nYou can open the collaborative notes, but no need to do anything else for now"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#my-stance-on-ai",
+    "href": "slides/2026-04_CW26/index.html#my-stance-on-ai",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "My stance on AI",
+    "text": "My stance on AI"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#reading-individual-task",
+    "href": "slides/2026-04_CW26/index.html#reading-individual-task",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Reading (individual task)",
+    "text": "Reading (individual task)\n\n \n\n\n\nIndividually, pick one policy from https://hackmd.io/@ccamara/SySWWw5TWe\nIndividually, read/skim one of the policies, paying attention to these questions:\n\nHow is AI presented?\nIs it trying to prevent/protect something?\nIs it trying to encourage something?\nWhat are the allowed uses of AI?\nAny disallowed uses of AI?\nAny technologies mentioned?\nHow is coding mentioned?"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#descriptive-analysis-group",
+    "href": "slides/2026-04_CW26/index.html#descriptive-analysis-group",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Descriptive analysis (group)",
+    "text": "Descriptive analysis (group)\n\n \nPrompts for discussion with your table and take notes in the md:\n\nHow is AI presented? (tool, revolution, demand…)\nIs it trying to prevent/protect something? (academic integrity, plagiarism, Intellectual Property…)\nIs it trying to encourage something? (critical use of ai, …)\nWhat are the allowed uses of AI? (grammar, translation, validation…)\nAny disallowed uses of AI? (generating text, coding…)\nAny technologies mentioned? (LLMs, ChatGPT,…)\nHow is coding mentioned?\n\n\n\n\n\n\n\nImportant\n\n\nThere’s no need to address all the questions now! Choose the ones that are more relevant.\nWrite notes in the hackmd notebook!"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#reflective-analysis-group",
+    "href": "slides/2026-04_CW26/index.html#reflective-analysis-group",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Reflective analysis (group)",
+    "text": "Reflective analysis (group)\n\n \n\nDiscuss with your table and take notes in the md. Guiding prompts:\n\n\nWhat’s the general tone of the AI? (uncertainty, hope, unavoidabilty, enthusiastic, critic)\nWhat stands out from these policies?\nWhat is missing from the policies? (e.g. coding)\nWhat is unclear?\nWhat would you want to see more of? And less of?\nHow should coding be incorporated in policies?\n\n\nWrite down 2-3 key takeaway points that will be shared with the rest of the groups\n\n\n\n\n\n\n\nImportant\n\n\nWrite notes in the hackmd notebook!"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#share",
+    "href": "slides/2026-04_CW26/index.html#share",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Share",
+    "text": "Share\n\n \n\nEach group’s spokesperson to share the 2-3 key takeaways"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#join-the-exclusive-community",
+    "href": "slides/2026-04_CW26/index.html#join-the-exclusive-community",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Join the exclusive community!",
+    "text": "Join the exclusive community!\n https://github.com/CriticAI-HE |  Matrix Space |  criticai-he.github.io/\n\n\n\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?\n\n\n\n\n\n\n\n\n\nSave the date!\n\n\nFirst online meeting: What is concerning you about AI?\n 15th May 14:00 to 15:00, Teams\n+info (and expression of interest):"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#mapping-digital-research-competencies-pedagogies-survey",
+    "href": "slides/2026-04_CW26/index.html#mapping-digital-research-competencies-pedagogies-survey",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Mapping Digital Research Competencies Pedagogies Survey",
+    "text": "Mapping Digital Research Competencies Pedagogies Survey\n\n\nBy participating in the survey, you will help us to better understand the role played by people, methodologies and infrastructure in the provision of digital research competencies (DRP) across higher‑education institutions.\nhttps://qrco.de/bglZRb"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CriticAI-HE.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
+    "href": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
+    "title": "CriticAI at the SSI’s Collaborations Workshop 26",
+    "section": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "text": "Analysing AI guidelines to critically enquiry AI adoption in software development\nDay and time: Wednesday 29 April, 15:00 - 16:00\n\nAbstract:\n\nAI is profoundly transforming many facets of our lives, one of them being how we think about and develop software. Specialised LLMs, IDE integrations, a myriad of services and platforms, as well as the emergence of new development methods (e.g. vive coding) all of which promise speed and efficiency, have led to a massive adoption in corporate environments. This shift has also permeated to HE organisations who are also embracing AI to develop research software (as well as for teaching and researching) even though they collide with their core values and principles such as scientific knowledge, academic integrity, inclusion and diversity, collaboration or committing to producing a positive impact beyond academia, usually related with sustainability or social justice.\nThis workshop will be the kick-off of my SSI Fellowship aimed at Creating CriticAI, a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with academia’s ethos. In the first half of this session, participants will be analysing universities’ guidelines to produce a collaborative mapping of AI’s adoption across HE. This will inform a discussion on the second half of the session, where we will collaboratively be exploring the challenges, tensions and contradictions that AI is introducing in our jobs and workplaces.\nThose attending to the workshop are expected to meet and engage with a group like-minded software developers who want to and gain a renewed critical awareness of AI adoption that probably (and hopefully) can lead to form a community of practice and collective action.\n\n\n\nSlides\n(to be added after the workshop)\n\n\nPolicies and Collaborative notes\n(to be added after the workshop)"
+  },
+  {
+    "objectID": "posts/2026-04-27-what-s-troubling-you/index.html",
+    "href": "posts/2026-04-27-what-s-troubling-you/index.html",
+    "title": "First online meeting: What’s troubling you?",
+    "section": "",
+    "text": "Introducing yourselves\nIf you’re interested in joining, please add a comment below, or sign up in the matrix channel."
   },
   {
     "objectID": "slides/2026-03-18_CBSG/index.html#section",
@@ -75,27 +152,6 @@
     "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
     "section": "Hello world!",
     "text": "Hello world!\n\nHi, my name is Carlos and I am building CriticAI. Nothing big at the moment, but if any of the following questions resonate with you, please do reach out!\n\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?\n\nWe will be meeting on DATE at TIME at Matrix|Jitsi|Teams to have an initial chat on what is concerning you"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CriticAI-HE.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",

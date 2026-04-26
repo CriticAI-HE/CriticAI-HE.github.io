@@ -10,61 +10,66 @@
 <atom:link href="https://criticai-he.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A community of practice to critically enquiry about AI’s adoption in Higher Education</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 15 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://criticai-he.github.io/posts/post-with-code/</link>
+  <title>First online meeting: What’s troubling you?</title>
+  <dc:creator>Carlos Cámara-Menoyo</dc:creator>
+  <link>https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p>Introducing yourselves</p>
+<p>If you’re interested in joining, please add a comment below, or sign up in the matrix channel.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://criticai-he.github.io/posts/post-with-code/</guid>
-  <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://criticai-he.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/</guid>
+  <pubDate>Sun, 26 Apr 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://criticai-he.github.io/posts/welcome/</link>
+  <title>CriticAI at the SSI’s Collaborations Workshop 26</title>
+  <dc:creator>Carlos Cámara</dc:creator>
+  <link>https://criticai-he.github.io/posts/criticai-at-ssi-cw26/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://criticai-he.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p><img src="https://criticai-he.github.io/posts/criticai-at-ssi-cw26/thumbnail.png" class="img-fluid"></p>
+<section id="analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development" class="level2">
+<h2 class="anchored" data-anchor-id="analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development"><strong>Analysing AI guidelines to critically enquiry AI adoption in software development</strong></h2>
+<p><strong>Day and time:</strong> Wednesday 29 April, 15:00 - 16:00</p>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract"><strong>Abstract:</strong></h3>
+<blockquote class="blockquote">
+<p>AI is profoundly transforming many facets of our lives, one of them being how we think about and develop software. Specialised LLMs, IDE integrations, a myriad of services and platforms, as well as the emergence of new development methods (e.g.&nbsp;vive coding) all of which promise speed and efficiency, have led to a massive adoption in corporate environments. This shift has also permeated to HE organisations who are also embracing AI to develop research software (as well as for teaching and researching) even though they collide with their core values and principles such as scientific knowledge, academic integrity, inclusion and diversity, collaboration or committing to producing a positive impact beyond academia, usually related with sustainability or social justice.</p>
+<p>This workshop will be the kick-off of my SSI Fellowship aimed at Creating CriticAI, a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with academia’s ethos. In the first half of this session, participants will be analysing universities’ guidelines to produce a collaborative mapping of AI’s adoption across HE. This will inform a discussion on the second half of the session, where we will collaboratively be exploring the challenges, tensions and contradictions that AI is introducing in our jobs and workplaces.</p>
+<p>Those attending to the workshop are expected to meet and engage with a group like-minded software developers who want to and gain a renewed critical awareness of AI adoption that probably (and hopefully) can lead to form a community of practice and collective action.</p>
+</blockquote>
+</section>
+<section id="slides" class="level3">
+<h3 class="anchored" data-anchor-id="slides">Slides</h3>
+<p>(to be added after the workshop)</p>
+</section>
+<section id="policies-and-collaborative-notes" class="level3">
+<h3 class="anchored" data-anchor-id="policies-and-collaborative-notes">Policies and Collaborative notes</h3>
+<p>(to be added after the workshop)</p>
 
 
+</section>
+</section>
 
  ]]></description>
-  <category>news</category>
-  <guid>https://criticai-he.github.io/posts/welcome/</guid>
-  <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+  <category>News</category>
+  <category>Events</category>
+  <guid>https://criticai-he.github.io/posts/criticai-at-ssi-cw26/</guid>
+  <pubDate>Sat, 11 Apr 2026 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
