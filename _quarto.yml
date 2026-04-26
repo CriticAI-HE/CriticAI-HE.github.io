@@ -41,3 +41,13 @@ format:
 
 editor: visual
 
+comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
+    giscus:
+      repo: CriticAI-HE/community
+      category: Web-comments
+      category-id: DIC_kwDORS8o2M4C7wIp
+      mapping: pathname
+      input-position: top
