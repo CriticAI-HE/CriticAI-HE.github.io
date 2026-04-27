@@ -11,28 +11,23 @@ listing:
 ---
 
 ::: column-screen-inset-shaded
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
-| -   Are you a member of a University, Research centre or HE?                                                                                                                   | ![](media/AI_video_phone.GIF) |
-| -   Are you **concerned** with the way AI is being implemented in HE?                                                                                                          |                               |
-| -   Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities? |                               |
-| -   Do you want your **voice made heard**?                                                                                                                                     |                               |
-| -   Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?                                                         |                               |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
-: {tbl-colwidths="[60,40]"}
-::: 
-
-::: {.list-table header-rows=0 colwidths="[75,25]" aligns="l,r"}
-- - text
-  - Are you a member of a University, Research centre or HE?
-  - Are you concerned with the way AI is being implemented in HE?
-  - Do you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
-  - Do you want your voice made heard?
-  - Do you want to work together with others to influence decision-making processes in HE in relation to AI usage?
-
-- - image
+::: {.list-table header-rows="0" colwidths="[75,25]" aligns="l,r"}
+- - {{< fa brands github >}} <https://github.com/CriticAI-HE>
+    
+    {{< fa solid comments >}} [Matrix Space](https://matrix.to/#/!HTlQauruCuGUrpjgNw:matrix.org?via=matrix.org) 
+    - Are you a member of a University, Research centre or HE?
+    - Are you concerned with the way AI is being implemented in HE?
+    - Do you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
+    - Do you want your voice made heard?
+    - Do you want to work together with others to influence decision-making processes in HE in relation to AI usage?
   - ![](media/AI_video_phone.GIF)
 
+
 :::
+:::
+
+
+
 
 
 
