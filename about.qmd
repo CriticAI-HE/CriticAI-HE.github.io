@@ -1,10 +1,10 @@
 ---
 title: "About"
-image: profile.jpg
+image: media/avatar.png
 about:
   template: jolla
   links:
-    - icon: twitter
+    - icon: element
       text: Twitter
       href: https://twitter.com
     - icon: linkedin
@@ -16,3 +16,7 @@ about:
 ---
 
 About this blog
+
+::: column-screen-inset-shaded
+Hello there
+:::
