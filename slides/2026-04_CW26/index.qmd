@@ -29,9 +29,9 @@ While we wait...
 
 1.  Take a sit in the table with the topic that is more relevant to you (or closer):
 
-    -   AI for coding in Research
-    -   AI for teaching coding
-    -   AI for learning about coding
+    - AI for coding in Research
+    - AI for teaching coding
+    - AI for learning about coding
 
 2.  Introduce yourselves to the other members of the table
 :::
@@ -80,28 +80,38 @@ The second one is a critical understanding of tech. I tend to enquiry about why,
 
 ## My stance on AI
 
+:::::: columns
+::: {.column width="50%"}
+I'm concerned with how HE/Academia is acritically replicating trends and discourses in private sector in relation to AI adoption, without addressing conflicts between the way this technology works and the pillars upon academic knowledge and excellence should be built upon.
+
+And that's how my fellowship started!
+:::
+
+::: {.column width="50%"}
 ![](/media/AI_video_phone.GIF){fig-align="center"}
+:::
+::::
 
 # Workshop's overview
 
 :::::: columns
 ::: {.column width="50%"}
--   ~~Introduction~~ 5'
--   Policies analysis (think, pair and share)
-    -   Read (individual) (5')
-    -   Descriptive analysis (15')
-    -   Reflexive analysis (15')
-    -   Share (spokesperson) (2' per group)
--   Call to action/Announcements (5')
+- ~~Introduction~~ 5'
+- Policies analysis (think, pair and share)
+  - Read (individual) (5')
+  - Descriptive analysis (15')
+  - Reflexive analysis (15')
+  - Share (spokesperson) (2' per group)
+- Call to action/Announcements (5')
 :::
 
 :::: {.column width="50%"}
 ::: callout-important
 ### Action
 
--   Designate a note taker and a spokesperson
--   Write notes in the hackmd document
--   Pick a policy you want to read from ![](media/qr-code-hackmd.svg){width="200"}
+- Designate a note taker and a spokesperson
+- Write notes in the hackmd document
+- Pick a policy you want to read from ![](media/qr-code-hackmd.svg){width="200"}
 :::
 ::::
 ::::::
@@ -116,15 +126,15 @@ Now, enough of me and let's talk about what we are going to do today
 
 ::::: columns
 ::: {.column width="65%"}
-1.  Individually, pick one policy from [https://hackmd.io/\@ccamara/SySWWw5TWe](https://hackmd.io/@ccamara/SySWWw5TWe){.uri}
+1.  Individually, pick one policy from <https://bit.ly/48JYWK3>
 2.  Individually, read/skim one of the policies, paying attention to these questions:
-    -   How is AI presented?
-    -   Is it trying to prevent/protect something?
-    -   Is it trying to encourage something?
-    -   What are the allowed uses of AI?
-    -   Any disallowed uses of AI?
-    -   Any technologies mentioned?
-    -   How is coding mentioned?
+    - How is AI presented?
+    - Is it trying to prevent/protect something?
+    - Is it trying to encourage something?
+    - What are the allowed uses of AI?
+    - Any disallowed uses of AI?
+    - Any technologies mentioned?
+    - How is coding mentioned?
 :::
 
 ::: {.column width="35%"}
@@ -138,13 +148,13 @@ Now, enough of me and let's talk about what we are going to do today
 
 Prompts for discussion with your table and take notes in the md:
 
--   **How is AI presented?** *(tool, revolution, demand...)*
--   **Is it trying to prevent/protect something?** *(academic integrity, plagiarism, Intellectual Property...)*
--   **Is it trying to encourage something?** *(critical use of ai, ...)*
--   **What are the allowed uses of AI?** *(grammar, translation, validation...)*
--   **Any disallowed uses of AI?** *(generating text, coding...)*
--   **Any technologies mentioned?** *(LLMs, ChatGPT,...)*
--   **How is coding mentioned?**
+- **How is AI presented?** *(tool, revolution, demand...)*
+- **Is it trying to prevent/protect something?** *(academic integrity, plagiarism, Intellectual Property...)*
+- **Is it trying to encourage something?** *(critical use of ai, ...)*
+- **What are the allowed uses of AI?** *(grammar, translation, validation...)*
+- **Any disallowed uses of AI?** *(generating text, coding...)*
+- **Any technologies mentioned?** *(LLMs, ChatGPT,...)*
+- **How is coding mentioned?**
 
 ::: callout-important
 There's no need to address all the questions now! Choose the ones that are more relevant.
@@ -158,12 +168,12 @@ Write notes in the hackmd notebook!
 
 1.  Discuss with your table and take notes in the md. **Guiding prompts:**
 
--   **What's the general tone of the AI?** (uncertainty, hope, unavoidabilty, enthusiastic, critic)
--   **What stands out from these policies?**
--   **What is missing from the policies?** (e.g. coding)
--   **What is unclear?**
--   **What would you want to see more of? And less of?**
--   **How should coding be incorporated in policies?**
+- **What's the general tone of the AI?** (uncertainty, hope, unavoidabilty, enthusiastic, critic)
+- **What stands out from these policies?**
+- **What is missing from the policies?** (e.g. coding)
+- **What is unclear?**
+- **What would you want to see more of? And less of?**
+- **How should coding be incorporated in policies?**
 
 2.  Write down 2-3 key takeaway points that will be shared with the rest of the groups
 
@@ -185,10 +195,11 @@ Write notes in the hackmd notebook!
 
 :::::: columns
 ::: {.column width="55%"}
--   Are you **concerned** with the way AI is being implemented in HE?
--   Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
--   Do you want your **voice made heard**?
--   Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?
+- Are you a member of a University, Research centre or HE?
+- Are you **concerned** with the way AI is being implemented in HE?
+- Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
+- Do you want your **voice made heard**?
+- Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?
 :::
 
 :::: {.column width="45%"}
@@ -201,7 +212,7 @@ Write notes in the hackmd notebook!
 
 {{< fa solid calendar >}} 15th May 14:00 to 15:00, Teams
 
-+info (and expression of interest):
++info (and expression of interest): URL here
 :::
 ::::
 ::::::
