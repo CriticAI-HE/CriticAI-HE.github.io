@@ -9,10 +9,10 @@
 <link>https://criticai-he.github.io/blog.html</link>
 <atom:link href="https://criticai-he.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A community of practice to critically enquiry about AI’s adoption in Higher Education</description>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.9.37</generator>
 <lastBuildDate>Sun, 26 Apr 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>First online meeting: What’s troubling you?</title>
+  <title>First online meetup: What’s troubling you?</title>
   <dc:creator>Carlos Cámara-Menoyo</dc:creator>
   <link>https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/</link>
   <description><![CDATA[ 
@@ -21,8 +21,14 @@
 
 
 
-<p>Introducing yourselves</p>
-<p>If you’re interested in joining, please add a comment below, or sign up in the matrix channel.</p>
+<p>Next 15th May we will be having the first online meetup with community members. The plan is simple: we will be asking attendees to address two questions:</p>
+<ol type="1">
+<li>What is troubling you about AI?</li>
+<li>How could CriticAI be useful for you?</li>
+</ol>
+<p>The expectation is that in so doing, we will be knowing each other as well as start shaping the community.</p>
+<p>I will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams…), but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.</p>
+<p>Also, stay tuned!</p>
 
 
 
