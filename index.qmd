@@ -1,6 +1,8 @@
 ---
-title: "CriticAI-HE"
+title: "A community of practice to critically enquiry about AI’s adoption in Higher Education"
 title-block-banner: true
+comments: false
+toc: false
 listing:
   id: latest-posts
   contents: posts
