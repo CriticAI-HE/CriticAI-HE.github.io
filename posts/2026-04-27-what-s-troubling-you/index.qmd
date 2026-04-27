@@ -1,11 +1,20 @@
 ---
-title: "First online meeting: What's troubling you?"
+title: "First online meetup: What's troubling you?"
 subtitle: "Save the date! 15th May "
 author: "Carlos Cámara-Menoyo"
 date: "2026-04-27"
 categories: [news]
 ---
 
-Introducing yourselves
+![](thumbnail.png)
 
-If you're interested in joining, please add a comment below, or sign up in the matrix channel.
+Next 15th May we will be having the first online meetup with community members. The plan is simple: we will be asking attendees to address two questions:
+
+1.  What is troubling you about AI?
+2.  How could CriticAI be useful for you?
+
+The expectation is that in so doing, we will be knowing each other as well as start shaping the community.
+
+I will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams...), but whether you're interested in attending and/or have suggestions, please write a comment below so I can reach out.
+
+Also, stay tuned!
