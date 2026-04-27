@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CriticAI-HE",
+    "section": "",
+    "text": "Are you a member of a University, Research centre or HE?\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?"
+  },
+  {
+    "objectID": "index.html#latest-blog-posts",
+    "href": "index.html#latest-blog-posts",
+    "title": "CriticAI-HE",
+    "section": "Latest blog posts",
+    "text": "Latest blog posts\n\n\n\n\n\n\n\n\nFirst online meetup: What’s troubling you?\n\n\n\n\n\n\nCarlos Cámara-Menoyo\n\n\nApr 27, 2026\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26)…\n\n\n\nCarlos Cámara\n\n\nApr 12, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
+    "href": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
+    "title": "CriticAI at the SSI’s Collaborations Workshop 26",
+    "section": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "text": "Analysing AI guidelines to critically enquiry AI adoption in software development\nDay and time: Wednesday 29 April, 15:00 - 16:00\n\nAbstract:\n\nAI is profoundly transforming many facets of our lives, one of them being how we think about and develop software. Specialised LLMs, IDE integrations, a myriad of services and platforms, as well as the emergence of new development methods (e.g. vive coding) all of which promise speed and efficiency, have led to a massive adoption in corporate environments. This shift has also permeated to HE organisations who are also embracing AI to develop research software (as well as for teaching and researching) even though they collide with their core values and principles such as scientific knowledge, academic integrity, inclusion and diversity, collaboration or committing to producing a positive impact beyond academia, usually related with sustainability or social justice.\nThis workshop will be the kick-off of my SSI Fellowship aimed at Creating CriticAI, a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with academia’s ethos. In the first half of this session, participants will be analysing universities’ guidelines to produce a collaborative mapping of AI’s adoption across HE. This will inform a discussion on the second half of the session, where we will collaboratively be exploring the challenges, tensions and contradictions that AI is introducing in our jobs and workplaces.\nThose attending to the workshop are expected to meet and engage with a group like-minded software developers who want to and gain a renewed critical awareness of AI adoption that probably (and hopefully) can lead to form a community of practice and collective action.\n\n\n\nSlides\n(to be added after the workshop)\n\n\nPolicies and Collaborative notes\n(to be added after the workshop)"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
@@ -61,34 +82,6 @@
     "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
     "section": "Mapping Digital Research Competencies Pedagogies Survey",
     "text": "Mapping Digital Research Competencies Pedagogies Survey\n\n\nBy participating in the survey, you will help us to better understand the role played by people, methodologies and infrastructure in the provision of digital research competencies (DRP) across higher‑education institutions.\nhttps://qrco.de/bglZRb"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CriticAI-HE",
-    "section": "",
-    "text": "Are you a member of a University, Research centre or HE?\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?"
-  },
-  {
-    "objectID": "index.html#latest-blog-posts",
-    "href": "index.html#latest-blog-posts",
-    "title": "CriticAI-HE",
-    "section": "Latest blog posts",
-    "text": "Latest blog posts\n\n\n\n\n\n\n\n\nFirst online meetup: What’s troubling you?\n\n\n\n\n\n\nCarlos Cámara-Menoyo\n\n\nApr 27, 2026\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26)…\n\n\n\nCarlos Cámara\n\n\nApr 12, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
-    "href": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
-    "title": "CriticAI at the SSI’s Collaborations Workshop 26",
-    "section": "Analysing AI guidelines to critically enquiry AI adoption in software development",
-    "text": "Analysing AI guidelines to critically enquiry AI adoption in software development\nDay and time: Wednesday 29 April, 15:00 - 16:00\n\nAbstract:\n\nAI is profoundly transforming many facets of our lives, one of them being how we think about and develop software. Specialised LLMs, IDE integrations, a myriad of services and platforms, as well as the emergence of new development methods (e.g. vive coding) all of which promise speed and efficiency, have led to a massive adoption in corporate environments. This shift has also permeated to HE organisations who are also embracing AI to develop research software (as well as for teaching and researching) even though they collide with their core values and principles such as scientific knowledge, academic integrity, inclusion and diversity, collaboration or committing to producing a positive impact beyond academia, usually related with sustainability or social justice.\nThis workshop will be the kick-off of my SSI Fellowship aimed at Creating CriticAI, a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with academia’s ethos. In the first half of this session, participants will be analysing universities’ guidelines to produce a collaborative mapping of AI’s adoption across HE. This will inform a discussion on the second half of the session, where we will collaboratively be exploring the challenges, tensions and contradictions that AI is introducing in our jobs and workplaces.\nThose attending to the workshop are expected to meet and engage with a group like-minded software developers who want to and gain a renewed critical awareness of AI adoption that probably (and hopefully) can lead to form a community of practice and collective action.\n\n\n\nSlides\n(to be added after the workshop)\n\n\nPolicies and Collaborative notes\n(to be added after the workshop)"
-  },
-  {
-    "objectID": "posts/2026-04-27-what-s-troubling-you/index.html",
-    "href": "posts/2026-04-27-what-s-troubling-you/index.html",
-    "title": "First online meetup: What’s troubling you?",
-    "section": "",
-    "text": "Next 15th May we will be having the first online meetup with community members. The plan is simple: we will be asking attendees to address two questions:\n\nWhat is troubling you about AI?\nHow could CriticAI be useful for you?\n\nThe expectation is that in so doing, we will be knowing each other as well as start shaping the community.\nI will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams…), but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.\nAlso, stay tuned!"
   },
   {
     "objectID": "slides/2026-03-18_CBSG/index.html#section",
@@ -159,6 +152,13 @@
     "title": "CriticAI: what I’ve done, what I haven’t done, and what keeps me from doing it",
     "section": "Hello world!",
     "text": "Hello world!\n\nHi, my name is Carlos and I am building CriticAI. Nothing big at the moment, but if any of the following questions resonate with you, please do reach out!\n\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?\n\nWe will be meeting on DATE at TIME at Matrix|Jitsi|Teams to have an initial chat on what is concerning you"
+  },
+  {
+    "objectID": "posts/2026-04-27-what-s-troubling-you/index.html",
+    "href": "posts/2026-04-27-what-s-troubling-you/index.html",
+    "title": "First online meetup: What’s troubling you?",
+    "section": "",
+    "text": "Next 15th May we will be having the first online meetup with community members. The plan is simple: we will be asking attendees to address two questions:\n\nWhat is troubling you about AI?\nHow could CriticAI be useful for you?\n\nThe expectation is that in so doing, we will be knowing each other as well as start shaping the community.\nI will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams…), but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.\nAlso, stay tuned!"
   },
   {
     "objectID": "about.html",

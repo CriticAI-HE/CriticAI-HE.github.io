@@ -1,13 +1,13 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2026-04-27-what-s-troubling-you/index.html",
       "/posts/criticai-at-ssi-cw26/index.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/2026-04-27-what-s-troubling-you/index.html",
       "/posts/criticai-at-ssi-cw26/index.html"
