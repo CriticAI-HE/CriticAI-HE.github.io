@@ -1,8 +1,8 @@
 ---
 title: "About"
-image: media/avatar.png
+image: media/AI_video_phone.GIF
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: element
       text: Twitter
@@ -15,8 +15,35 @@ about:
       href: https://github.com
 ---
 
-About this blog
+AI is profoundly transforming many facets of our lives, including the way we learn, teach or research. Universities face the challenge of deciding how to fit AI, especially considering that the way this technology is designed collides with many of the core principles upon which Academia and scientific knowledge are built upon.
 
-::: column-screen-inset-shaded
-Hello there
+This community of practice aims to critically enquiry how AI is adopted and influence decision-making processes to ensure that academic principles are not traded over promises of progress, speed or efficiency.
+
+### Who is this for?
+
+This is welcoming members from any background that are concerned by AI generally, and how is it used in HE, specifically.
+
+If any of these questions resonate with you, you're likely to belong here!
+
+- Are you a member of a University, Research centre or HE?
+- Are you **concerned** with the way AI is being implemented in HE?
+- Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
+- Do you want your **voice made heard**?
+- Do you want to **work together with others** to **influence decision-making processes** in HE in relation to AI usage?
+
+### What can I expect from this community?
+
+For now, the offering is quite humble: meeting like-minded people willing to do something collectively.
+
+If you find this very vague is because we are now in a definition stage, which means that you have a saying in shaping how you want this community to be!
+
+### How can I engage?
+
+Start by joining the conversation in these channels: {{< fa brands github >}} <https://github.com/orgs/CriticAI-HE/discussions>, {{< fa solid comments >}} [Matrix Space](https://matrix.to/#/!HTlQauruCuGUrpjgNw:matrix.org?via=matrix.org) and introduce yourselve.
+
+There you can help us shaping the community by [introducing yourselves](https://github.com/orgs/CriticAI-HE/discussions/categories/introductions), [proposing ideas](https://github.com/orgs/CriticAI-HE/discussions/categories/ideas) (or giving feedback to existing ones) or simply [discussing and sharing your thoughts](https://github.com/orgs/CriticAI-HE/discussions/categories/general).
+
+## Latest blog posts
+
+::: {#latest-posts}
 :::

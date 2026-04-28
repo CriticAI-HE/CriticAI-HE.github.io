@@ -1,7 +1,16 @@
 ---
 title: "First online meetup: What's troubling you?"
 subtitle: "Save the date! 15th May "
-author: "Carlos Cámara-Menoyo"
+author: 
+  - name: "Carlos Cámara"
+    orcid: 0000-0002-9378-0549
+    email: carlos.camara@warwick.ac.uk
+    affiliations:
+    - name: University of Warwick
+      address: Centre for Interdisciplinary Methodologies (CIM), Social Sciences Building
+      city: Coventry
+      state: WA
+      postal-code: CV4 7AL
 date: "2026-04-27"
 categories: [news]
 ---
@@ -13,8 +22,6 @@ Next 15th May we will be having the first online meetup with community members. 
 1.  What is troubling you about AI?
 2.  How could CriticAI be useful for you?
 
-The expectation is that in so doing, we will be knowing each other as well as start shaping the community.
-
-I will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams...), but whether you're interested in attending and/or have suggestions, please write a comment below so I can reach out.
+The expectation is that in so doing, we will be knowing each other as well as start shaping the community. I still need to figure out which online platform to use (Matrix/Element, Jitsi, Teams...- if you have thoughts, please share them in this discussion), so I will be updating more details here in the following days, but whether you're interested in attending and/or have suggestions, please write a comment below so I can reach out.
 
 Also, stay tuned!

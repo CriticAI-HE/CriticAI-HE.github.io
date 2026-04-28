@@ -84,7 +84,7 @@ The second one is a critical understanding of tech. I tend to enquiry about why,
 ::: {.column width="50%"}
 I'm concerned with how HE/Academia is acritically replicating trends and discourses in private sector in relation to AI adoption, without addressing conflicts between the way this technology works and the pillars upon academic knowledge and excellence should be built upon.
 
-And that's how my fellowship started!
+That led me to propose this session!
 :::
 
 ::: {.column width="50%"}
@@ -92,7 +92,25 @@ And that's how my fellowship started!
 :::
 ::::
 
-# Workshop's overview
+# Today's plans {background-color="#D2232A" background-image="media/pexels-photo-12103504-1024x682.webp" background-opacity="0.3" background-size="cover"}
+
+Aim: address the following question:
+
+::: {.r-fit-text}
+How are HE organisations adopting AI?
+:::
+
+...while testing a framework to analyse AI policies.
+
+## Spoiler alert {.center}
+
+::: {.r-fit-text}
+Code does not seem to be concerning univeristies!
+:::
+
+Use this as an opportunity to reflect on the gaps and think about how would we want to incorporate it.
+
+## Workshop's overview
 
 :::::: columns
 ::: {.column width="50%"}
@@ -196,8 +214,8 @@ Write notes in the hackmd notebook!
 :::::: columns
 ::: {.column width="55%"}
 - Are you a member of a University, Research centre or HE?
-- Are you **concerned** with the way AI is being implemented in HE?
-- Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
+- Are you **concerned** with the way AI is being implemented in HE amd how can it impact our work (e.g. how we research and teach), how students learn, or the future of universities?
+- Do you feel **isolated** when you flag your concerns?
 - Do you want your **voice made heard**?
 - Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?
 :::
@@ -212,7 +230,7 @@ Write notes in the hackmd notebook!
 
 {{< fa solid calendar >}} 15th May 14:00 to 15:00, Teams
 
-+info (and expression of interest): URL here
++info (and expression of interest): <https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/>
 :::
 ::::
 ::::::
@@ -234,3 +252,5 @@ By participating in the survey, you will help us to better understand the role p
 :::::
 
 <!-- https://warwick.co1.qualtrics.com/jfe/form/SV_b3LoVpAfmFETUt8?Q_CHL=CW26 -->
+
+# Thank you! {background-color="#D2232A" background-image="media/pexels-photo-12103504-1024x682.webp" background-opacity="0.3" background-size="cover"}

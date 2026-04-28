@@ -12,8 +12,8 @@ author:
       postal-code: CV4 7AL
 date: "2026-04-12"
 categories:
-  - News
-  - Events
+  - news
+  - events
 description: |
     CriticAI will be officially presented during the SSI's [Collaborations Workshop 2026](https://www.software.ac.uk/news/cw26-mini-workshops-have-now-been-announced) (CW26), during a workshop aimed at Analysing AI guidelines in HE that will serve as a warm-up for what is it to come. If you are interested in knowing (and discussing -and even challenging!) how universities are approaching the adoption of AI, you cannot miss it! Also, I would love to know about you, so please come by and say hello!
 ---
