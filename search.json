@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "A community of practice to critically enquiry about AI’s adoption in Higher Education",
     "section": "",
-    "text": "https://github.com/CriticAI-HE\n Matrix Space\n\nAre you a member of a University, Research centre or HE?\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?"
+    "text": "AI is profoundly transforming many facets of our lives, including the way we learn, teach or research. Universities face the challenge of deciding how to fit AI, especially considering that the way this technology is designed collides with many of the core principles upon which Academia and scientific knowledge are built upon.\nThis community of practice aims to critically enquiry how AI is adopted and influence decision-making processes to ensure that academic principles are not traded over promises of progress, speed or efficiency."
   },
   {
     "objectID": "index.html#latest-blog-posts",
     "href": "index.html#latest-blog-posts",
     "title": "A community of practice to critically enquiry about AI’s adoption in Higher Education",
     "section": "Latest blog posts",
-    "text": "Latest blog posts\n\n\n\n\n\n\n\n\nFirst online meetup: What’s troubling you?\n\n\n\n\n\n\nCarlos Cámara-Menoyo\n\n\nApr 27, 2026\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26)…\n\n\n\nCarlos Cámara\n\n\nApr 12, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Latest blog posts\n\n\n\n\n\n\n\n\nFirst online meetup: What’s troubling you?\n\n\n\n\n\n\nCarlos Cámara\n\n\nApr 27, 2026\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26)…\n\n\n\nCarlos Cámara\n\n\nApr 12, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/criticai-at-ssi-cw26/index.html#analysing-ai-guidelines-to-critically-enquiry-ai-adoption-in-software-development",
@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "First online meetup: What’s troubling you?\n\n\nSave the date! 15th May \n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 27, 2026\n\n\nCarlos Cámara-Menoyo\n\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\n\n\n\n\nNews\n\nEvents\n\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26), during a workshop aimed at Analysing AI guidelines in HE that will serve as a warm-up for what is it to come. If you are interested in knowing (and discussing -and even challenging!) how universities are approaching the adoption of AI, you cannot miss it! Also, I would love to know about you, so please come by and say hello!\n\n\n\n\n\nApr 12, 2026\n\n\nCarlos Cámara\n\n\n\n\n\nNo matching items"
+    "text": "First online meetup: What’s troubling you?\n\n\nSave the date! 15th May \n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 27, 2026\n\n\nCarlos Cámara\n\n\n\n\n\n\n\n\n\n\n\n\nCriticAI at the SSI’s Collaborations Workshop 26\n\n\n\n\n\n\nnews\n\nevents\n\n\n\nCriticAI will be officially presented during the SSI’s Collaborations Workshop 2026 (CW26), during a workshop aimed at Analysing AI guidelines in HE that will serve as a warm-up for what is it to come. If you are interested in knowing (and discussing -and even challenging!) how universities are approaching the adoption of AI, you cannot miss it! Also, I would love to know about you, so please come by and say hello!\n\n\n\n\n\nApr 12, 2026\n\n\nCarlos Cámara\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides/2026-04_CW26/index.html#section",
@@ -39,7 +39,21 @@
     "href": "slides/2026-04_CW26/index.html#my-stance-on-ai",
     "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
     "section": "My stance on AI",
-    "text": "My stance on AI\n\n\nI’m concerned with how HE/Academia is acritically replicating trends and discourses in private sector in relation to AI adoption, without addressing conflicts between the way this technology works and the pillars upon academic knowledge and excellence should be built upon.\nAnd that’s how my fellowship started!"
+    "text": "My stance on AI\n\n\nI’m concerned with how HE/Academia is acritically replicating trends and discourses in private sector in relation to AI adoption, without addressing conflicts between the way this technology works and the pillars upon academic knowledge and excellence should be built upon.\nThat led me to propose this session!"
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#spoiler-alert",
+    "href": "slides/2026-04_CW26/index.html#spoiler-alert",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Spoiler alert",
+    "text": "Spoiler alert\n\nCode does not seem to be concerning univeristies!\n\nUse this as an opportunity to reflect on the gaps and think about how would we want to incorporate it."
+  },
+  {
+    "objectID": "slides/2026-04_CW26/index.html#workshops-overview",
+    "href": "slides/2026-04_CW26/index.html#workshops-overview",
+    "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
+    "section": "Workshop’s overview",
+    "text": "Workshop’s overview\n\n\n\nIntroduction 5’\nPolicies analysis (think, pair and share)\n\nRead (individual) (5’)\nDescriptive analysis (15’)\nReflexive analysis (15’)\nShare (spokesperson) (2’ per group)\n\nCall to action/Announcements (5’)\n\n\n\n\n\n\n\n\nAction\n\n\n\nDesignate a note taker and a spokesperson\nWrite notes in the hackmd document\nPick a policy you want to read from \n\n\n\n\n\n\nNow, enough of me and let’s talk about what we are going to do today"
   },
   {
     "objectID": "slides/2026-04_CW26/index.html#reading-individual-task",
@@ -74,7 +88,7 @@
     "href": "slides/2026-04_CW26/index.html#join-the-exclusive-community",
     "title": "Analysing AI guidelines to critically enquiry AI adoption in software development",
     "section": "Join the exclusive community!",
-    "text": "Join the exclusive community!\n https://github.com/CriticAI-HE |  Matrix Space |  criticai-he.github.io/\n\n\n\nAre you a member of a University, Research centre or HE?\nAre you concerned with the way AI is being implemented in HE?\nDo you feel isolated when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?\n\n\n\n\n\n\n\n\n\nSave the date!\n\n\nFirst online meeting: What is concerning you about AI?\n 15th May 14:00 to 15:00, Teams\n+info (and expression of interest): URL here"
+    "text": "Join the exclusive community!\n https://github.com/CriticAI-HE |  Matrix Space |  criticai-he.github.io/\n\n\n\nAre you a member of a University, Research centre or HE?\nAre you concerned with the way AI is being implemented in HE amd how can it impact our work (e.g. how we research and teach), how students learn, or the future of universities?\nDo you feel isolated when you flag your concerns?\nDo you want your voice made heard?\nDo you want to work together with others to influence decision-making processes in HE in relation to AI usage?\n\n\n\n\n\n\n\n\n\nSave the date!\n\n\nFirst online meeting: What is concerning you about AI?\n 15th May 14:00 to 15:00, Teams\n+info (and expression of interest): https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/"
   },
   {
     "objectID": "slides/2026-04_CW26/index.html#mapping-digital-research-competencies-pedagogies-survey",
@@ -158,13 +172,20 @@
     "href": "posts/2026-04-27-what-s-troubling-you/index.html",
     "title": "First online meetup: What’s troubling you?",
     "section": "",
-    "text": "Next 15th May we will be having the first online meetup with community members. The plan is simple: we will be asking attendees to address two questions:\n\nWhat is troubling you about AI?\nHow could CriticAI be useful for you?\n\nThe expectation is that in so doing, we will be knowing each other as well as start shaping the community.\nI will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams…), but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.\nAlso, stay tuned!"
+    "text": "Next 15th May we will be having the first online meetup with community members. The plan is simple: we will be asking attendees to address two questions:\n\nWhat is troubling you about AI?\nHow could CriticAI be useful for you?\n\nThe expectation is that in so doing, we will be knowing each other as well as start shaping the community. I still need to figure out which online platform to use (Matrix/Element, Jitsi, Teams…- if you have thoughts, please share them in this discussion), so I will be updating more details here in the following days, but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.\nAlso, stay tuned!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog\n\nHello there"
+    "text": "AI is profoundly transforming many facets of our lives, including the way we learn, teach or research. Universities face the challenge of deciding how to fit AI, especially considering that the way this technology is designed collides with many of the core principles upon which Academia and scientific knowledge are built upon.\nThis community of practice aims to critically enquiry how AI is adopted and influence decision-making processes to ensure that academic principles are not traded over promises of progress, speed or efficiency."
+  },
+  {
+    "objectID": "about.html#latest-blog-posts",
+    "href": "about.html#latest-blog-posts",
+    "title": "About",
+    "section": "Latest blog posts",
+    "text": "Latest blog posts"
   }
 ]

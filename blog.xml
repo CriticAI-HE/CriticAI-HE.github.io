@@ -13,7 +13,7 @@
 <lastBuildDate>Mon, 27 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>First online meetup: What’s troubling you?</title>
-  <dc:creator>Carlos Cámara-Menoyo</dc:creator>
+  <dc:creator>Carlos Cámara</dc:creator>
   <link>https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/</link>
   <description><![CDATA[ 
 
@@ -27,8 +27,7 @@
 <li>What is troubling you about AI?</li>
 <li>How could CriticAI be useful for you?</li>
 </ol>
-<p>The expectation is that in so doing, we will be knowing each other as well as start shaping the community.</p>
-<p>I will be updating more details here about the online platform in the following days (I have not figured out which one to use -Matrix/Element, Jitsi, Teams…), but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.</p>
+<p>The expectation is that in so doing, we will be knowing each other as well as start shaping the community. I still need to figure out which online platform to use (Matrix/Element, Jitsi, Teams…- if you have thoughts, please share them in this discussion), so I will be updating more details here in the following days, but whether you’re interested in attending and/or have suggestions, please write a comment below so I can reach out.</p>
 <p>Also, stay tuned!</p>
 
 
@@ -73,8 +72,8 @@
 </section>
 
  ]]></description>
-  <category>News</category>
-  <category>Events</category>
+  <category>news</category>
+  <category>events</category>
   <guid>https://criticai-he.github.io/posts/criticai-at-ssi-cw26/</guid>
   <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
 </item>
