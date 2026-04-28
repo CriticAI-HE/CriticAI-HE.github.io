@@ -213,11 +213,16 @@ Write notes in the hackmd notebook!
 
 :::::: columns
 ::: {.column width="55%"}
+
+If any of these questions resonate with you, you're likely to belong here!
+
 - Are you a member of a University, Research centre or HE?
 - Are you **concerned** with the way AI is being implemented in HE amd how can it impact our work (e.g. how we research and teach), how students learn, or the future of universities?
 - Do you feel **isolated** when you flag your concerns?
 - Do you want your **voice made heard**?
 - Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?
+
+Join (and shape!) the community by [introducing yourselves](https://github.com/orgs/CriticAI-HE/discussions/categories/introductions), [proposing ideas](https://github.com/orgs/CriticAI-HE/discussions/categories/ideas) (or giving feedback to existing ones) or simply [discussing and sharing your thoughts](https://github.com/orgs/CriticAI-HE/discussions/categories/general).
 :::
 
 :::: {.column width="45%"}
