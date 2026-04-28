@@ -20,9 +20,9 @@ listing:
 ::: {.column width="60%"}
 
 ::: {.big-text}
-AI is profoundly transforming many facets of our lives, including the way we learn, teach or research. Universities face the challenge of deciding how to fit AI, especially considering that the way this technology is designed collides with many of the core principles upon which Academia and scientific knowledge are built upon.
-
-This community of practice aims to critically enquiry how AI is adopted and influence decision-making processes to ensure that academic principles are not traded over promises of progress, speed or efficiency.
+> AI is profoundly transforming many facets of our lives, including the way we learn, teach or research. Universities face the challenge of deciding how to fit AI, especially considering that the way this technology is designed collides with many of the core principles upon which Academia and scientific knowledge are built upon.
+>
+> This community of practice aims to critically enquiry how AI is adopted and influence decision-making processes to ensure that academic principles are not traded over promises of progress, speed or efficiency.
 
 :::
 
@@ -64,12 +64,9 @@ If you find this very vague is because we are now in a definition stage, which m
 
 ### How can I engage?
 
-Start by joining the conversation in these channels: {{< fa brands github >}} <https://github.com/orgs/CriticAI-HE/discussions>, {{< fa solid comments >}} [Matrix Space](https://matrix.to/#/!HTlQauruCuGUrpjgNw:matrix.org?via=matrix.org) and introduce yourselve.
+Start by joining the conversation in these channels: {{< fa brands github >}} <https://github.com/orgs/CriticAI-HE/discussions>, {{< fa solid comments >}} [[Matrix] Space](https://matrix.to/#/!HTlQauruCuGUrpjgNw:matrix.org?via=matrix.org).
 
 There you can help us shaping the community by [introducing yourselves](https://github.com/orgs/CriticAI-HE/discussions/categories/introductions), [proposing ideas](https://github.com/orgs/CriticAI-HE/discussions/categories/ideas) (or giving feedback to existing ones) or simply [discussing and sharing your thoughts](https://github.com/orgs/CriticAI-HE/discussions/categories/general).
-
-
-
 
 
 ## Latest blog posts
