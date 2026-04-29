@@ -14,6 +14,7 @@ format:
     revealjs:
       theme: [default, ../../styles/slides.scss, ../../styles/fonts.scss]
       footer: "Analysing AI guidelines to critically enquiry AI adoption in software development"
+      multiplex: true
 ---
 
 ##  {data-menu-title="While we wait..." background-image="media/pexels-photo-12103504-1024x682.webp" background-opacity="0.1" background-size="cover"}
