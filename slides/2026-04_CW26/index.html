@@ -325,7 +325,7 @@ Carlos Cámara-Menoyo
 </section>
 <section id="reading-individual-task" class="slide level2">
 <h2>Reading (individual task)</h2>
-<countdown-timer id="timer_9d0ce823998930038fe3f5fc5c0adaf29909e50f" minutes="05" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
+<countdown-timer id="timer_bc0a10d66c7341820e6af0d1ffa5f0ba114e94db" minutes="05" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
  </countdown-timer>
 <div class="columns">
 <div class="column" style="width:65%;">
@@ -348,7 +348,7 @@ Carlos Cámara-Menoyo
 </section>
 <section id="descriptive-analysis-group" class="slide level2">
 <h2>Descriptive analysis (group)</h2>
-<countdown-timer id="timer_9d0ce823998930038fe3f5fc5c0adaf29909e50f" minutes="15" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
+<countdown-timer id="timer_bc0a10d66c7341820e6af0d1ffa5f0ba114e94db" minutes="15" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
  </countdown-timer>
 <p>Prompts for discussion with your table and take notes in the md:</p>
 <ul>
@@ -377,7 +377,7 @@ Carlos Cámara-Menoyo
 </section>
 <section id="reflective-analysis-group" class="slide level2">
 <h2>Reflective analysis (group)</h2>
-<countdown-timer id="timer_9d0ce823998930038fe3f5fc5c0adaf29909e50f" minutes="15" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
+<countdown-timer id="timer_bc0a10d66c7341820e6af0d1ffa5f0ba114e94db" minutes="15" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
  </countdown-timer>
 <ol type="1">
 <li>Discuss with your table and take notes in the md. <strong>Guiding prompts:</strong></li>
@@ -409,7 +409,7 @@ Carlos Cámara-Menoyo
 </section>
 <section id="share" class="slide level2 center">
 <h2>Share</h2>
-<countdown-timer id="timer_9d0ce823998930038fe3f5fc5c0adaf29909e50f" minutes="02" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
+<countdown-timer id="timer_bc0a10d66c7341820e6af0d1ffa5f0ba114e94db" minutes="02" seconds="00" class="countdown" warn-when="0" update-every="1" play-sound="true" blink-colon="false" start-immediately="false" tabindex="0" style="top: 0;right: 0;">
  </countdown-timer>
 <ol type="1">
 <li>Each group’s spokesperson to share the 2-3 key takeaways</li>
@@ -488,6 +488,8 @@ Carlos Cámara-Menoyo
   <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
   <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
+  <script src="../../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -510,6 +512,7 @@ Carlos Cámara-Menoyo
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'multiplex': {"secret":null,"id":"ae2281bc85fbb08cf435d127a035d110bfc022262913dba6e1eccb814f0554b1","url":"https://multiplex.up.railway.app/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -683,7 +686,7 @@ Carlos Cámara-Menoyo
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
 
           RevealMath,
-          RevealNotes,
+          
           RevealSearch,
           RevealZoom
         ]
