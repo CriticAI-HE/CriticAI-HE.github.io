@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/index.html</loc>
+    <lastmod>2026-06-09T15:35:55.284Z</lastmod>
+  </url>
+  <url>
     <loc>https://criticai-he.github.io/index.html</loc>
-    <lastmod>2026-04-29T13:33:00.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://criticai-he.github.io/posts/criticai-at-ssi-cw26/index.html</loc>
-    <lastmod>2026-04-29T13:33:00.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://criticai-he.github.io/blog.html</loc>
-    <lastmod>2026-04-29T13:33:00.568Z</lastmod>
+    <lastmod>2026-06-09T15:35:55.040Z</lastmod>
   </url>
   <url>
     <loc>https://criticai-he.github.io/slides/2026-04_CW26/index.html</loc>
-    <lastmod>2026-04-29T13:33:00.820Z</lastmod>
+    <lastmod>2026-06-09T15:35:55.289Z</lastmod>
   </url>
   <url>
-    <loc>https://criticai-he.github.io/slides/2026-03-18_CBSG/index.html</loc>
-    <lastmod>2026-04-29T13:33:00.818Z</lastmod>
-  </url>
-  <url>
-    <loc>https://criticai-he.github.io/posts/2026-04-27-what-s-troubling-you/index.html</loc>
-    <lastmod>2026-04-29T13:33:00.815Z</lastmod>
+    <loc>https://criticai-he.github.io/blog.html</loc>
+    <lastmod>2026-06-09T15:35:55.040Z</lastmod>
   </url>
   <url>
     <loc>https://criticai-he.github.io/about.html</loc>
-    <lastmod>2026-04-29T13:33:00.568Z</lastmod>
+    <lastmod>2026-06-09T15:35:55.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criticai-he.github.io/slides/2026-03-18_CBSG/index.html</loc>
+    <lastmod>2026-06-09T15:35:55.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criticai-he.github.io/posts/criticai-at-ssi-cw26/index.html</loc>
+    <lastmod>2026-06-09T15:35:55.284Z</lastmod>
   </url>
 </urlset>

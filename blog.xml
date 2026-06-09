@@ -9,7 +9,7 @@
 <link>https://criticai-he.github.io/blog.html</link>
 <atom:link href="https://criticai-he.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A community of practice to critically enquiry about AI’s adoption in Higher Education</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Mon, 27 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>First online meetup: What’s troubling you?</title>
@@ -61,11 +61,11 @@
 </section>
 <section id="slides" class="level3">
 <h3 class="anchored" data-anchor-id="slides">Slides</h3>
-<p>(to be added after the workshop)</p>
+<iframe class="slide-deck" src="../../slides/2026-04_CW26/index.html"></iframe>
 </section>
 <section id="policies-and-collaborative-notes" class="level3">
 <h3 class="anchored" data-anchor-id="policies-and-collaborative-notes">Policies and Collaborative notes</h3>
-<p>(to be added after the workshop)</p>
+<p>Read the collaborative notes here: <a href="https://hackmd.io/@ccamara/SySWWw5TWe" class="uri">https://hackmd.io/@ccamara/SySWWw5TWe</a></p>
 
 
 </section>
