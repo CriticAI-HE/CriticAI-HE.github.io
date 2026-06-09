@@ -34,8 +34,10 @@ description: |
 
 ### Slides
 
-(to be added after the workshop)
+```{=html}
+<iframe class="slide-deck" src="/slides/2026-04_CW26/index.html"></iframe>
+```
 
 ### Policies and Collaborative notes
 
-(to be added after the workshop)
+Read the collaborative notes here: <https://hackmd.io/@ccamara/SySWWw5TWe>

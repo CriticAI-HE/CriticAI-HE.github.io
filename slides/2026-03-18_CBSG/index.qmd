@@ -60,18 +60,18 @@ Participants will bring policies. We will analyise and discuss them: what they s
 ::: callout-note
 ## Interested?
 
--   Attend to the workshop and bring your own policies
+- Attend to the workshop and bring your own policies
 
--   Let me know if you would like to help with organisation
+- Let me know if you would like to help with organisation
 :::
 
 ## The infrastructure is (almost) ready, but...
 
--   I have not told anyone about the community yet.
--   Website is empty
-    -   No info about community's aims, activities, or how to join.
--   No messages in the Matrix space or the GitHub organisation.
--   **Zero members!** (Zero activity)
+- I have not told anyone about the community yet.
+- Website is empty
+  - No info about community's aims, activities, or how to join.
+- No messages in the Matrix space or the GitHub organisation.
+- **Zero members!** (Zero activity)
 
 # Analysis paralysis! {background-image="https://i.giphy.com/eImrJKnOmuBDmqXNUj.webp" background-color="#000"}
 
@@ -81,33 +81,33 @@ I'm stuck! Support is welcome!
 
 ::::: columns
 ::: {.column width="45%"}
--   What kind of community do I want to build?
-    -   Support group? (therapy)
-    -   Union (collective action and bargaining power)
-    -   Social (networking and sharing)
-    -   Learning (knowledge sharing and skill development)
-    -   Something else?
+- What kind of community do I want to build?
+  - Support group? (therapy)
+  - Union (collective action and bargaining power)
+  - Social (networking and sharing)
+  - Learning (knowledge sharing and skill development)
+  - Something else?
 :::
 
 ::: {.column width="45%"}
--   Where to start?
-    -   Unconf may be too big and intimidating for a first activity
-    -   Reading group?
-    -   Survey?
-    -   ...?
--   Who is the community for?
-    -   Academics? RSEs? Just from the UK?
--   What's the community's stance on AI?
+- Where to start?
+  - Unconf may be too big and intimidating for a first activity
+  - Reading group?
+  - Survey?
+  - ...?
+- Who is the community for?
+  - Academics? RSEs? Just from the UK?
+- What's the community's stance on AI?
 :::
 :::::
 
 ## Me &/vs. Community
 
--   Leading vs facilitating?
-    -   I have a very oppinionated stance on AI (and more broadly, on the tools I do not like using), but not sure whether this needs to be the community's stance. How can this
--   Tools:
-    -   Important to be coherent (e.g. rejecting AI-fueled solutions), but also, is this the battle I want to pick? (AI is overwhelming enough!)
-    -   I particularly struggle with IM
+- Leading vs facilitating?
+  - I have a very oppinionated stance on AI (and more broadly, on the tools I do not like using), but not sure whether this needs to be the community's stance. How can this
+- Tools:
+  - Important to be coherent (e.g. rejecting AI-fueled solutions), but also, is this the battle I want to pick? (AI is overwhelming enough!)
+  - I particularly struggle with IM
 
 # Commit Often, Perfect Later {.center}
 
@@ -117,10 +117,10 @@ Thanks to Oscar and Yo for their mentoring and guidance!
 
 > Hi, my name is Carlos and I am building CriticAI. Nothing big at the moment, but if any of the following questions resonate with you, please do reach out!
 >
-> -   Are you **concerned** with the way AI is being implemented in HE?
-> -   Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
-> -   Do you want your **voice made heard**?
-> -   Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?
+> - Are you **concerned** with the way AI is being implemented in HE?
+> - Do you feel **isolated** when you flag your concerns about how AI can impact our work (e.g. how we research and teach), how students learn, or the future of universities?
+> - Do you want your **voice made heard**?
+> - Do you want to work together with others to **influence decision-making** processes in HE in relation to AI usage?
 >
 > We will be meeting on [DATE]{.highlight-text} at [TIME]{.highlight-text} at [Matrix\|Jitsi\|Teams]{.highlight-text} to have an initial chat on what is concerning you
 
@@ -129,7 +129,7 @@ Thanks to Oscar and Yo for their mentoring and guidance!
 1.  What is concerning you about AI in HE?
 2.  Does any of this sound appealing to you? Would you like to be involved in this community?
 3.  Do you have any suggestions on:
-    -   How/where to start?
-    -   What kind of activities would you like to do?
-    -   What tools would you like to use?
-    -   ...
+    - How/where to start?
+    - What kind of activities would you like to do?
+    - What tools would you like to use?
+    - ...
